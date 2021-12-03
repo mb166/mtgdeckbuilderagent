@@ -92,5 +92,3 @@ class Database:
                 if (rules in card['oracle_text']):
                     results.append(card)
         return results
-
-
